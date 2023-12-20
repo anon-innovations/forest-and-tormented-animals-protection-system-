@@ -46,15 +46,11 @@ Implement power-efficient solutions, such as solar-powered systems, to ensure co
 
 **Technologies and Tools:**
 
-Programming Languages: Python, C++, Dart
-
-Machine Learning Libraries: TensorFlow, YoLo, PyTorch, pyaudio, librosa
-
-Microcontroler: ESP32 , Raspberry PI
-
-Communication: LoRa
-
-Database: Firebase
+**Programming Languages:** Python, C++, Dart
+**Machine Learning Libraries:** TensorFlow, YoLo, PyTorch, pyaudio, librosa
+**Microcontroler:** ESP32 , Raspberry PI
+**Communication:** LoRa
+**Database:** Firebase
 
 Mobile App Development: Flutter
 
