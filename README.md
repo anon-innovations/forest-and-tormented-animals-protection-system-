@@ -2,6 +2,7 @@
  Developing a system for the protection of forests and distressed animals based on AI, ML, and LoRa communication.
 
 **System Overview:**
+
 **1. Sensor Network:**
 Deploy a network of sensors in the forest to monitor various parameters, such as animal movement, sound levels, temperature, and humidity.
 Use specific sensors like infrared cameras, microphones, and environmental sensors.
